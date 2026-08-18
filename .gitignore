@@ -78,9 +78,6 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Kaggle dataset archive
-/chapter_05_convolutional_modern/kaggle-leaves-classification/classify-leaves.zip
-
 # IPython
 profile_default/
 ipython_config.py
@@ -219,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# train & test data
+
+chapter_05_convolutional_modern/kaggle-leaves-classification/data/
+data/hotdog
+data/hotdog.zip

@@ -220,5 +220,4 @@ __marimo__/
 # train & test data
 
 chapter_05_convolutional_modern/kaggle-leaves-classification/data/
-data/hotdog
-data/hotdog.zip
+data/
